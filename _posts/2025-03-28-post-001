@@ -4,11 +4,3 @@ date: 2025-03-28
 ---
 
 今天成功部署了GitHub Pages
-
-
-{% include note.html content="这是特别提示的内容" %}
-
-<details>
-<summary>点击查看配置示例</summary>
-```yaml
-theme: minima
